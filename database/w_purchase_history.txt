@@ -1,0 +1,1 @@
+{'username': 'w', 'first_name': 'w', 'last_name': 'w', 'date': '08-07-2024 \t23:45:05', 'items': [{'title': 'T-shirt', 'price': 4499, 'quantity': 20}], 'total_bill': 89980, 'address': 's, s, s, s'}

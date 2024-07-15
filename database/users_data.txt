@@ -1,0 +1,2 @@
+{'first_name': 'w', 'last_name': 'w', 'username': 'w', 'password': '1718c24b10aeb8099e3fc44960ab6949ab76a267352459f203ea1036bec382c2'}
+{'first_name': 'sufyan', 'last_name': 'ali', 'username': 'sufy12', 'password': '1718c24b10aeb8099e3fc44960ab6949ab76a267352459f203ea1036bec382c2'}
